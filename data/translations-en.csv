@@ -1,0 +1,323 @@
+field,zh,en,count
+system,上半身单人,Upper-Body Solo,400
+system,全身单人・性感系,Full-Body Solo · Sexy,399
+system,全身单人・标准系,Full-Body Solo · Standard,365
+angle,正面,Front,288
+angle,俯视,High,288
+angle,侧面,Side,288
+angle,斜侧,Oblique,288
+angle,仰视,Low,287
+system,双人缠绵,Couple · Intertwined,275
+category,趴卧,Prone,150
+category,性感・大胆系,Sexy · Bold,150
+category,站姿,Standing,145
+category,坐姿,Sitting,144
+category,可爱系,Cute,125
+category,挤胸・强调事业线系,Chest Push · Cleavage,125
+category,跪立・四肢着地,Kneeling · All-Fours,75
+category,特殊,Special,75
+category,正常位（传教士）,Missionary,55
+category,跪立,Kneeling,50
+category,侧坐・女孩坐,Side Sit · Girl's Sit,40
+category,后入位,Rear Entry,35
+category,背向坐位,Seated · Back-to-Front,35
+category,蹲姿,Crouching,30
+category,前倾,Forward Lean,30
+category,贴脸系,Face-Close,30
+category,骑乘位,Cowgirl,30
+category,立位,Upright,20
+category,立位贴身,Upright · Close,20
+category,后仰・挺背,Lean Back · Arch,15
+category,扭身,Twist,15
+category,侧卧位,Side-Lying,15
+poseName,前倾・手扶膝,"Forward Lean, Hand on Knee",10
+category,坐位,Seated,10
+category,面对面坐位,Seated · Face-to-Face,10
+poseName,S形站姿・胯部侧顶,"S-Shape Stand, Hip Pushed to Side",5
+poseName,背部后仰・双手撩发,"Leaning Back, Both Hands Flicking Hair",5
+poseName,顶胯回眸,"Hips Out, Looking Back",5
+poseName,站立・抱单膝至胸・背部后仰,"Standing, One Knee to Chest, Leaning Back",5
+poseName,手扶墙顶胯（站立后入待位）,"Hand on Wall, Hips Out (Standing Rear-Entry Ready)",5
+poseName,背向回望・强调臀部,"Back-to-Front, Looking Back, Hips Emphasized",5
+poseName,站立・单腿抬至肩高握踝（I字）,"Standing, One Leg to Shoulder, Holding Ankle (I)",5
+poseName,似沐浴中撩发,"Hair Flick, Shower-Like",5
+poseName,站立挤胸,"Standing, Chest Pressed",5
+poseName,双臂上举伸展・扭转腰身,"Both Arms Up Stretching, Waist Twisted",5
+poseName,站立V字（单腿侧高抬）,Standing V (One Leg High to Side),5
+poseName,双手背后・挺胸,"Hands Behind Back, Chest Out",5
+poseName,站立前屈翘臀・双手触地,"Standing Forward Fold, Hips Out, Hands to Floor",5
+poseName,双手扶腰・单膝内收后仰,"Both Hands on Hips, One Knee In, Leaning Back",5
+poseName,侧坐・单手支撑・身体柔弯,"Side Sit, One-Hand Support, Body Bent",5
+poseName,正坐・挺胸后仰,"Seiza, Chest Out, Leaning Back",5
+poseName,M字开腿（坐位・双手扶膝）,"M-Stance Legs (Seated, Hands on Knees)",5
+poseName,大幅V字开腿・双手后撑,"Wide V-Split, Hands Behind",5
+poseName,坐姿・单腿高抬・手握脚踝,"Sitting, One Leg High, Holding Ankle",5
+poseName,M字开腿（双肘支撑后仰）,"M-Stance Legs (Elbow Support, Leaning Back)",5
+poseName,伸腿・侧肘支撑坐,"Legs Extended, Side Elbow Support Sit",5
+poseName,坐姿・抱腿打开,"Sitting, Hugging Legs Open",5
+poseName,抱单膝坐・背部后仰,"Hugging One Knee, Sitting, Leaning Back",5
+poseName,侧坐・撩发,"Side Sit, Hair Flick",5
+poseName,鸭子坐・双手前撑挤胸,"Squat Sit, Both Hands Forward, Chest Pressed",5
+poseName,单膝立起・双手后撑,"One Knee Up, Hands Behind",5
+poseName,坐姿・单腿大幅外开（单M字）,"Sitting, One Leg Wide Open (Single M)",5
+poseName,抱膝坐・双膝微开,"Hugging Knees Sit, Knees Slightly Open",5
+poseName,跪立・上体后仰・双手抱后脑,"Kneeling, Leaning Back, Hands on Back of Head",5
+poseName,四肢着地・挺背目视前方,"All-Fours, Arched Back, Looking Forward",5
+poseName,双膝大幅外开的跪立・压胯下沉,"Kneeling, Knees Wide, Hips Lowered",5
+poseName,正坐・撩发,"Seiza, Hair Flick",5
+poseName,单膝跪・手放大腿,"One Knee Down, Hand on Thigh",5
+poseName,骑乘风・开膝双手前撑・沉胯,"Cowgirl-Style, Knees Open, Hands Forward, Hips Down",5
+poseName,骑乘风・开膝沉胯・撩发,"Cowgirl-Style, Knees Open, Hips Down, Hair Flick",5
+poseName,跪立大幅后仰・双手握脚跟,"Kneeling, Deep Lean Back, Both Hands on Heels",5
+poseName,跪立・扭腰・单臂上举,"Kneeling, Waist Twisted, One Arm Up",5
+poseName,猫式（胸贴地翘臀・侧面）,"Cat Pose (Chest Down, Hips Up, Side)",5
+poseName,四肢着地・单腿后高抬,"All-Fours, One Leg High Back",5
+poseName,开膝正坐・双手前撑（撒娇请求式）,"Seized, Knees Open, Hands Forward (Pleading)",5
+poseName,跪立・向前顶胯,"Kneeling, Hips Pushed Forward",5
+poseName,跪立・侧向支撑・身体柔弯,"Kneeling, Side Support, Body Bent",5
+poseName,跪立・单手伸向脚跟・挺身后仰,"Kneeling, One Hand to Heel, Arching Back",5
+poseName,侧卧・强调腰线・单腿弯曲,"Side-Lying, Waist Curve Emphasized, One Leg Bent",5
+poseName,俯卧托腮・双腿上抬,"Prone, Chin Rest, Both Legs Up",5
+poseName,俯卧撑起上身大幅后仰,"Prone, Torso Raised, Deep Arch Back",5
+poseName,仰卧・抬背・单腿高抬,"Supine, Back Lifted, One Leg High",5
+poseName,仰卧・双膝并拢侧倒,"Supine, Knees Together, Fallen to Side",5
+poseName,俯卧肘撑・双腿伸直微开,"Prone, Elbow Support, Legs Straight Slightly Open",5
+poseName,侧卧・手臂过头・描S形曲线,"Side-Lying, Arm Overhead, S-Curve",5
+poseName,床上侧卧邀约姿势,"Side-Lying in Bed, Invite Pose",5
+poseName,俯卧翘臀,"Prone, Hips Raised",5
+poseName,仰卧V字开腿（双腿抬起）,Supine V-Split (Legs Raised),5
+poseName,仰卧・挺背后仰・双臂过头,"Supine, Back Arched, Arms Overhead",5
+poseName,俯卧回望・单膝侧屈,"Prone, Looking Back, One Knee Bent to Side",5
+poseName,侧卧・上腿高抬握踝,"Side-Lying, Top Leg High, Holding Ankle",5
+poseName,仰卧・双膝立起・单臂过头,"Supine, Knees Up, One Arm Overhead",5
+poseName,俯卧蛙腿（双膝外展）,"Prone, Frog Legs (Knees Out)",5
+poseName,背向侧卧・臀部线条,"Back-to-Front Side-Lying, Hip Line",5
+poseName,仰卧・双膝抱至胸前,"Supine, Both Knees to Chest",5
+poseName,俯卧托腮・单腿上抬,"Prone, Chin Rest, One Leg Up",5
+poseName,仰卧・单膝外展打开,"Supine, One Knee Opened Out",5
+poseName,肘撑起上身・单膝立起,"Elbow Support, Torso Up, One Knee Up",5
+poseName,桥式高抬胯・双膝打开,"Bridge, Hips High, Knees Open",5
+poseName,团身仰翻（侧面・抱大腿）,"Back Roll (Side, Hugging Thighs)",5
+poseName,团身仰翻（侧面・双腿伸向头前）,"Back Roll (Side, Legs to Head)",5
+poseName,团身仰翻（侧面・双膝落于头侧地面）,"Back Roll (Side, Knees to Floor by Head)",5
+poseName,蹲姿开腿（混混蹲）,Crouching Legs Open (Delinquent Crouch),5
+poseName,踮脚蹲姿开腿・双手触地,"On Toes, Crouching Legs Open, Hands to Floor",5
+poseName,桥式（四肢支撑）,Bridge (Hands and Feet),5
+poseName,站立劈叉（前屈单腿高抬后举）,"Standing Split (Forward Fold, One Leg High Back)",5
+poseName,前后劈叉・上体后仰,"Front Split, Torso Leaning Back",5
+poseName,左右开腿（全开横叉）・上体抬起,"Full Side Split, Torso Raised",5
+poseName,肩倒立・双腿V字打开,"Shoulder Stand, Legs in V",5
+poseName,跪立・向后仰・双手触地,"Kneeling, Leaning Back, Hands to Floor",5
+poseName,蹲姿开腿・双手抱头后,"Crouching Legs Open, Hands Behind Head",5
+poseName,单腿桥式（抬胯・单腿朝天）,"One-Leg Bridge (Hips Up, One Leg to Ceiling)",5
+poseName,反向四肢着地（桌面式）・向上顶胯,"Reverse All-Fours (Table), Hips Thrown Up",5
+poseName,后仰坐・单膝立起,"Reclined Sit, One Knee Up",5
+poseName,单手支撑・双腿斜向前伸,"One-Hand Support, Legs Drifting Forward",5
+poseName,双手后撑挺胸,"Hands Behind, Chest Out",5
+poseName,三角坐・双膝左倾,"Triangle Sit, Knees Tilted Left",5
+poseName,单膝立起・手抚发,"One Knee Up, Hand in Hair",5
+poseName,双腿斜伸・手扶腰,"Legs Drifting, Hand on Hip",5
+poseName,双肘支撑斜倚坐,"Both Elbows Down, Reclining Sit",5
+poseName,单膝立起・双手抱头后,"One Knee Up, Hands Behind Head",5
+poseName,向右倾・肘部支撑,"Tilting Right, Elbow Support",5
+poseName,手抚脚踝,Hand on Ankle,5
+poseName,双手抱头・挺胸后仰,"Both Hands Behind Head, Chest Up, Leaning Back",5
+poseName,单膝立起・托腮,"One Knee Up, Chin Rest",5
+poseName,双腿悬空后倚,"Legs Floating, Leaning Back",5
+poseName,握脚踝・单膝立起,"Holding Ankle, One Knee Up",5
+poseName,站立・对立式平衡・手扶腰,"Standing, Contrapposto, Hand on Hip",5
+poseName,站立・双手撩发,"Standing, Both Hands Flicking Hair",5
+poseName,站立・回眸顾盼,"Standing, Looking Back Over Shoulder",5
+poseName,站立・双手扶腰,"Standing, Both Hands on Hips",5
+poseName,站立・双臂上举伸展,"Standing, Both Arms Up Stretching",5
+poseName,站立・单手抚后脑,"Standing, One Hand on Back of Head",5
+poseName,站立・一手抚颈一手扶腿,"Standing, One Hand on Neck, One on Leg",5
+poseName,站立・双臂后展挺胸,"Standing, Arms Back, Chest Out",5
+poseName,站立・单腿后抬,"Standing, One Leg Back",5
+poseName,站立・分腿双手扶腰,"Standing, Legs Apart, Hands on Hips",5
+poseName,站立・单臂上举顶胯,"Standing, One Arm Up, Hips Out",5
+poseName,站立・双手抚后颈,"Standing, Both Hands on Nape",5
+poseName,站立・发丝飘扬,"Standing, Hair Flowing",5
+poseName,站立・踮脚双臂V字,"Standing, On Toes, Arms in V",5
+poseName,跪立・双手扶腿,"Kneeling, Both Hands on Legs",5
+poseName,跪立・双手抱头后,"Kneeling, Both Hands Behind Head",5
+poseName,单膝跪・手扶膝,"One Knee Down, Hand on Knee",5
+poseName,跪立・上体后仰,"Kneeling, Torso Leaning Back",5
+poseName,跪立・双臂上举,"Kneeling, Both Arms Up",5
+poseName,跪立・一手撩发一手扶腰,"Kneeling, One Hand in Hair, One on Hip",5
+poseName,单膝跪・仰望,"One Knee Down, Looking Up",5
+poseName,跪立・侧倾・手触地,"Kneeling, Tilting Side, Hand to Floor",5
+poseName,跪立・双手扶腰后仰,"Kneeling, Hands on Hips, Leaning Back",5
+poseName,跪立・摆胯・单臂上举,"Kneeling, Hips Swayed, One Arm Up",5
+poseName,女孩坐・双手扶腿,"Girl's Sit, Hands on Legs",5
+poseName,女孩坐・双手前撑,"Girl's Sit, Hands Forward",5
+poseName,女孩坐・双手抱头后,"Girl's Sit, Hands Behind Head",5
+poseName,女孩坐・双手后撑,"Girl's Sit, Hands Behind",5
+poseName,侧坐・双腿斜向右侧,"Side Sit, Legs Drifting Right",5
+poseName,侧坐・手扶脸颊,"Side Sit, Hand on Cheek",5
+poseName,侧坐・单臂上伸,"Side Sit, One Arm Up",5
+poseName,女孩坐・手抚颈侧,"Girl's Sit, Hand on Neck",5
+poseName,仰卧・双臂过头,"Supine, Both Arms Overhead",5
+poseName,侧卧・托腮,"Side-Lying, Chin Rest",5
+poseName,俯卧・抬腿,"Prone, Leg Raised",5
+poseName,仰卧・单膝立起,"Supine, One Knee Up",5
+poseName,侧卧・腰线曲线,"Side-Lying, Waist Curve",5
+poseName,仰卧・双腿竖直向上,"Supine, Both Legs Straight Up",5
+poseName,侧卧・单臂过头,"Side-Lying, One Arm Overhead",5
+poseName,俯卧・以臂枕头,"Prone, Arm Pillow",5
+poseName,仰卧・胸口上挺,"Supine, Chest Lifted",5
+poseName,蹲姿・手扶膝,"Crouching, Hand on Knee",5
+poseName,蹲姿・单手触地,"Crouching, One Hand to Floor",5
+poseName,蹲姿・托腮,"Crouching, Chin Rest",5
+poseName,蹲姿・手抚发,"Crouching, Hand in Hair",5
+poseName,蹲姿・踮脚双手触地,"Crouching, On Toes, Both Hands to Floor",5
+poseName,蹲姿・回头,"Crouching, Looking Back",5
+poseName,前倾・手触小腿,"Forward Lean, Hand Touching Shin",5
+poseName,前倾・单手扶腰・仰望,"Forward Lean, One Hand on Hip, Looking Up",5
+poseName,前倾・手扶大腿・臀部后坐,"Forward Lean, Hand on Thigh, Hips Back",5
+poseName,前倾・双臂自然下垂,"Forward Lean, Arms Dangling",5
+poseName,前倾・单腿后抬,"Forward Lean, One Leg Back",5
+poseName,后仰・站姿挺背,"Leaning Back, Standing, Arched",5
+poseName,跪立・双手后撑后仰,"Kneeling, Hands Behind, Leaning Back",5
+poseName,后仰・双臂上举挺身,"Leaning Back, Both Arms Up",5
+poseName,扭身・站姿展臂,"Twist, Standing Arms Wide",5
+poseName,扭身・跪立回望,"Twist, Kneeling Looking Back",5
+poseName,扭身・坐姿上体扭转,"Twist, Sitting Torso Turned",5
+poseName,胸前双手比心,Heart with Both Hands at Chest,5
+poseName,头顶双臂比心,Heart with Both Arms Overhead,5
+poseName,脸侧手指比心,Finger Heart Beside Face,5
+poseName,下巴下比双V,Double Peace Sign Under Chin,5
+poseName,辣妹V（手背朝外比V）,Gyaru V (Back-of-Hand V),5
+poseName,握拳贴脸（撒娇）,Fist to Cheek (Coquettish),5
+poseName,兔耳手势,Bunny Ear Pose,5
+poseName,招财猫猫爪手势,Maneki-neko Cat Paw,5
+poseName,咆哮手势（嗷呜）,Roar Gesture (Rawr),5
+poseName,嘘——（食指抵唇）,Shh (Finger to Lips),5
+poseName,歪头＋手遮单眼（眨眼风）,Tilted Head + Hand Over One Eye (Wink),5
+poseName,飞吻,Blow Kiss,5
+poseName,双掌托腮（花苞手势）,Both Palms on Chin (Flower Pose),5
+poseName,食指戳脸,Finger Poke to Cheek,5
+poseName,萌袖风・双手掩口,"Moe-Sleeve Style, Both Hands over Mouth",5
+poseName,拜托手势（双手合十）,Pleading Gesture (Hands Together),5
+poseName,抱紧自己・害羞姿势,"Hugging Self, Shy Pose",5
+poseName,手指取景框,Finger Frame,5
+poseName,将发丝挽至耳后,Tucking Hair Behind Ear,5
+poseName,双手捧脸,Both Hands on Cheeks,5
+poseName,敬礼姿势,Salute Pose,5
+poseName,手指镜头,Pointing at Camera,5
+poseName,打哈欠伸懒腰（单手掩口）,Yawning Stretch (One Hand over Mouth),5
+poseName,单手比心＋另一手抚胸,One-Hand Heart + Other Hand on Chest,5
+poseName,从双手指缝间窥视,Peeking Through Fingers,5
+poseName,双手比心贴脸（前倾挤胸）,"Heart with Both Hands to Face (Forward, Chest Pressed)",5
+poseName,雏人形式（双手扶膝）,Hina Pose (Both Hands on Knees),5
+poseName,手肘挤胸・扭转腰身,"Elbow Pressing Chest, Waist Twisted",5
+poseName,耸肩挤胸（双手下方交叠）,"Shoulders Shrugged, Chest Pressed (Hands Overlapped Below)",5
+poseName,双臂于胸下交叉托起,"Arms Crossed Under Chest, Lifting",5
+poseName,双手自下托起,Both Hands Lifting from Below,5
+poseName,胸伏桌面,Chest on Table,5
+poseName,前臂竖立・从两侧夹紧,"Forearms Upright, Squeezed from Both Sides",5
+poseName,单臂托起胸部,One Arm Cupping Chest,5
+poseName,俯视构图・双手放锁骨,"High-Angle View, Hands on Collarbones",5
+poseName,双手掐腰挺胸,"Both Hands on Waist, Chest Out",5
+poseName,双手从两侧挤胸,Both Hands Pressing Chest from Sides,5
+poseName,双手背后交握・挺胸,"Hands Clasped Behind Back, Chest Out",5
+poseName,跪立・双手前撑・身体前压,"Kneeling, Both Hands Forward, Body Pressed In",5
+poseName,单肘撑膝托腮,"One Elbow on Knee, Chin Rest",5
+poseName,双臂抱胸,Both Arms Hugging Chest,5
+poseName,单手挤胸・单手抚发,"One Hand Pressing Chest, One on Hair",5
+poseName,单肩下沉・身体前倾,"One Shoulder Dropped, Body Forward",5
+poseName,俯卧肘撑挤胸,"Prone, Elbow Support, Chest Pressed",5
+poseName,后仰・双臂夹紧,"Leaning Back, Arms Clamped",5
+poseName,单臂绕腰・一手抚颈,"One Arm Around Waist, One Hand on Neck",5
+poseName,双手置上胸向内挤,"Both Hands on Upper Chest, Pressing In",5
+poseName,手背托腮前倾,"Back of Hand on Chin, Forward Lean",5
+poseName,四肢着地俯视（胸口视角）,All-Fours High-Angle (Chest View),5
+poseName,双臂环抱托胸,"Arms Wrapped, Chest Lifted",5
+poseName,双手捧胸,Both Hands Cradling Chest,5
+poseName,双手揉胸,Both Hands Holding Chest,5
+poseName,手掌遮掩（双手遮蔽）,Hand Cover (Both Hands),5
+poseName,单手遮掩・一手扶腰,"One-Hand Cover, One Hand on Hip",5
+poseName,单手揉胸・单手撩发,"One Hand Cupping Chest, One Flicking Hair",5
+poseName,褪下肩带动作,Slipping Off Strap,5
+poseName,双手撩发大幅后仰,"Both Hands Flicking Hair, Deep Lean Back",5
+poseName,双手抱头・展露腋下,"Both Hands Behind Head, Armpits Show",5
+poseName,手指沿胸下缘滑动,Finger Tracing Under Chest,5
+poseName,手指抵唇＋单手抚胸,Finger to Lips + One Hand on Chest,5
+poseName,指尖遮掩胸前,Fingertips Covering Chest,5
+poseName,单手抚胸・单手抚腹,"One Hand on Chest, One on Belly",5
+poseName,双手后撑・挺胸突出,"Hands Behind, Chest Pushed Out",5
+poseName,俯卧单手托胸,"Prone, One Hand Cupping Chest",5
+poseName,四肢着地・挺背后仰仰望,"All-Fours, Arching Back, Looking Up",5
+poseName,四肢着地・单手抚胸,"All-Fours, One Hand on Chest",5
+poseName,豹式伸展（正面）,Leopard Stretch (Front),5
+poseName,跪立后仰・手触脚跟,"Kneeling, Leaning Back, Hand to Heel",5
+poseName,跪立・双手抱后脑,"Kneeling, Both Hands on Back of Head",5
+poseName,手指含于唇边,Finger at Lips,5
+poseName,抓握颈侧后仰,"Gripping Neck, Leaning Back",5
+poseName,双手向内挤并挺出,Both Hands Squeezing In and Out,5
+poseName,侧卧・抱胸,"Side-Lying, Hugging Chest",5
+poseName,仰卧・双手抚胸,"Supine, Both Hands on Chest",5
+poseName,仰卧・双臂上举挺身,"Supine, Both Arms Up, Chest Lifted",5
+poseName,前倾・手放大腿内侧,"Forward Lean, Hand on Inner Thigh",5
+poseName,背后解挂钩动作,Unclipping Clasp from Behind,5
+poseName,单手遮掩・另一手托起,"One-Hand Cover, Other Hand Lifting",5
+poseName,手探入胸前沟壑,Hand in Cleavage,5
+poseName,俯视视角・双手抚胸・上目线,"High-Angle View, Hands on Chest, Eyes Up",5
+poseName,面对面・抱起单膝,"Face-to-Face, Lifting One Knee",5
+poseName,双腿之间俯卧依偎,"Prone Between Legs, Snuggling",5
+poseName,抬起脚踝・V字打开,"Ankle Raised, V-Open",5
+poseName,双腿搭肩俯身压上,"Legs Over Shoulders, Leaning In",5
+poseName,抬高腰身・面庞贴近,"Waist Raised, Face Close",5
+poseName,倒抱交错,"Inverted Lift, Alternating",5
+poseName,手扶膝前倾站立,"Hands on Knees, Forward Lean Standing",5
+poseName,双腿交缠・双手相拉,"Legs Entangled, Hands Pulling",5
+poseName,自背后环抱・令其坐于膝上,"Embracing from Behind, Seated on Lap",5
+poseName,侧坐于膝上被拥,"Side Sit on Lap, Being Embraced",5
+poseName,伸腿交叠,"Legs Extended, Overlapping",5
+poseName,前方四肢着地・后方跪立,"All-Fours Front, Kneeling Back",5
+poseName,手撑地面・双腿被抱,"Hands on Floor, Legs Held",5
+poseName,双腿之间四肢着地,All-Fours Between Legs,5
+poseName,双腿搭放・倚靠膝上,"Legs Draped, Leaning on Lap",5
+poseName,双腿缠腰相拥,"Legs Wrapped Around Waist, Embracing",5
+poseName,背向・坐于腰上,"Back-to-Front, Sitting on Waist",5
+poseName,背向・蹲于膝上,"Back-to-Front, Crouching on Lap",5
+poseName,侧身・单腿搭肩,"Side-On, One Leg Draped Over Shoulder",5
+poseName,上方叠压・双腿伸展,"Overlapping on Top, Legs Extended",5
+poseName,双腕过头交叠・抱膝,"Wrists Overhead Overlapped, Hugging Knees",5
+poseName,面对面・坐于腰上,"Face-to-Face, Sitting on Waist",5
+poseName,仰卧・以膝撑起腰身,"Supine, Hips Lifted on Knees",5
+poseName,膝上・身体前倾,"On Lap, Body Forward",5
+poseName,仰卧・腰部被高高抱起,"Supine, Hips Lifted High (Held)",5
+poseName,双臂前伸・腰部被扶,"Arms Forward, Waist Supported",5
+poseName,倚靠立起之膝而坐,Sitting Leaning on Raised Knee,5
+poseName,上方叠压交错,"Overlapping on Top, Alternating",5
+poseName,跨跪于脸部上方,Straddling Kneel Over Face,5
+poseName,双手后撑・双腿缠绕,"Hands Behind, Legs Entangled",5
+poseName,抱紧抬起之单腿,Hugging Raised Leg,5
+poseName,俯身覆上・亲吻胸前,"Leaning Over, Kissing Chest",5
+poseName,胸贴地・抬胯,"Chest to Floor, Hips Raised",5
+poseName,盘腿相拥,"Cross-Legged, Embracing",5
+poseName,膝盖拉至肩・手握脚踝,"Knees to Shoulder, Holding Ankles",5
+poseName,越过背后・手抚胸前,"Over the Back, Hand on Chest",5
+poseName,深度前屈・双手触地,"Deep Forward Fold, Hands to Floor",5
+poseName,双腿前伸而坐,"Sitting, Legs Extended Forward",5
+poseName,双腿交叉・单腿搭肩,"Legs Crossed, One Leg Over Shoulder",5
+poseName,俯卧抬起单腿,"Prone, One Leg Lifted",5
+poseName,相拥・双腿交缠,"Embracing, Legs Entangled",5
+poseName,伸展身体・单腿后举,"Stretch, One Leg Back",5
+poseName,耳边低语・手触脸颊,"Whispering by Ear, Hand on Cheek",5
+poseName,双手腕举过头・被按住,"Both Wrists Overhead, Held Down",5
+poseName,自背后环抱胸前,Embracing Chest from Behind,5
+poseName,被横抱・背部后仰,"Being Carried, Leaning Back",5
+category,坐位贴身,Seated · Close,5
+poseName,侧坐・单腿高抬伸直,"Side Sit, One Leg High and Straight",5
+poseName,肘撑・从旁俯视,"Elbow Support, Looking Down from Side",5
+poseName,搭腿同眠,"Legs Draped, Sleeping Together",5
+category,贴身,Close Contact,5
+poseName,双腿之间托腮,Chin Rest Between Legs,5
+poseName,抱住膝弯・大幅打开,"Hugging Back of Knees, Wide Open",5
+poseName,双膝抱至胸前,Both Knees to Chest,5
+poseName,前倾弯腰・自后方扶腰,"Bending Forward, Waist Supported from Behind",5
+poseName,膝上・双腿绕腰,"On Lap, Legs Around Waist",5
+poseName,背靠・双膝大幅打开,"Back Leaning, Knees Wide Open",5
+poseName,M字开腿（坐位・双手后撑）,"M-Stance Legs (Seated, Hands Behind)",4
